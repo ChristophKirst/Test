@@ -5,12 +5,14 @@ jobs:
   create_commit:
     runs-on: ubuntu-latest
     steps:
-    - name: use REST API
+    - name: clones
       run: |
         curl --request GET \
         --url https://api.github.com/repos/${{ github.repository }}/traffic/clones \
         --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
         --header 'content-type: application/json' \
+    - name: views
+      run: |
         curl --request GET \
         --url https://api.github.com/repos/${{ github.repository }}/traffic/views \
         --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
