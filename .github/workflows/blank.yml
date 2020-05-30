@@ -17,5 +17,7 @@ jobs:
       run: |
         pip install requests
         python read_views.py ${{ secrets.PASSWORD }}
+    - name: ls
+      run: ls
         
 
