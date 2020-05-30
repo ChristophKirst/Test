@@ -1,7 +1,5 @@
 name: read traffic
 on:
-  schedule:
-  - cron: "*/5 * * * *"
     
   watch:
     types: [started]
