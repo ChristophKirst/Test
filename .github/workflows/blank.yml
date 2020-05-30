@@ -1,8 +1,5 @@
 name: Log latest release
-on:
-  push:
-    branches:
-      - master
+on: [push]
 
 jobs:
   logLatestRelease:
