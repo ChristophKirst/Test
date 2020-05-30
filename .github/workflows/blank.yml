@@ -11,7 +11,12 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: get_latest_release
         with:
-          route: GET /repos/ChristophKirst/Test/actions/workflows
+          route: GET /repos/ChristophKirst/Test/traffic/clones
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: "echo 'latest release: ${{ steps.get_latest_release.outputs.data }}'"
+      - run: |
+          import os
+          print(os.environ['PATH'])
+        shell: python
+
