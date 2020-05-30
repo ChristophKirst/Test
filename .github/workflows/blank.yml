@@ -29,8 +29,8 @@ jobs:
         git config --global user.name 'ChristophKirst'
         git config --global user.email 'christoph.kirst.ck@gmail.com'
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-        git checkout "${GITHUB_REF:11}"
-        git commit -am "automatic count views"
+        git add -A
+        git commit -m "automatic count views"
         git push
         
 
