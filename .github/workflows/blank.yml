@@ -5,6 +5,7 @@ jobs:
   create_commit:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: clones
       run: |
         curl --request GET \
@@ -14,4 +15,5 @@ jobs:
     - name: views
       run: |
         python read_views.py ${{ secrets.PASSWORD }}
+        
 
