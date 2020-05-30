@@ -1,6 +1,8 @@
 name: read traffic
 on:
-- push
+  schedule:
+  - cron: "1/5 * * * *"
+  
 jobs:
   create_commit:
     runs-on: ubuntu-latest
@@ -19,5 +21,13 @@ jobs:
         python read_views.py ${{ secrets.PASSWORD }}
     - name: ls
       run: ls
+    - name: push      
+      run: 
+        git config --global user.name 'ChristophKirst'
+        git config --global user.email 'christoph.kirst.ck@gmail.com'
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+        git checkout "${GITHUB_REF:11}"
+        git commit -am "automatic count views"
+        git push
         
 
