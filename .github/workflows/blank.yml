@@ -1,5 +1,8 @@
 name: Log latest release
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   logLatestRelease:
@@ -8,7 +11,7 @@ jobs:
       - uses: octokit/request-action@v2.x
         id: get_latest_release
         with:
-          route: GET /repos/Test/traffic/clones
+          route: GET /repos/ChristophKirst/Test/releases/latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run: "echo clones: ${{ steps.get_latest_release.outputs.data }}"
+      - run: "echo latest release: ${{ steps.get_latest_release.outputs.data }}"
