@@ -15,6 +15,7 @@ jobs:
         --header 'content-type: application/json' \
     - name: views
       run: |
+        pip install requests
         python read_views.py ${{ secrets.PASSWORD }}
         
 
