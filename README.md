@@ -3,7 +3,7 @@ Tests
 
 
 
-![.github/workflows/main.yml](https://github.com/ChristophKirst/Test/workflows/.github/workflows/main.yml/badge.svg)
+![RepoTracking](https://github.com/ChristophKirst/RepoTracker/workflows/.github/workflows/RepoTracker/badge.svg)
 
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/clearmap_idisco?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=clearmap_idisco)
