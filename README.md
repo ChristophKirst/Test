@@ -19,4 +19,4 @@ Tests
 [![License](https://img.shields.io/github/license/ChristophKirst/ClearMap?color=green&style=plastic)]()
 
 
-[![Size](https://img.shields.io/github/repo-size/ChristophKirst/ClearMap?style=plastic)
+[![Size](https://img.shields.io/github/repo-size/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap)
