@@ -26,3 +26,5 @@ Tests
 $x=1$
 
 ![gif](Submodule/Static/CellMap_small_fast.gif)
+
+![gif](https://github.com/ChristophKirst/TestSubModule/Static/CellMap_small_fast.gif)
