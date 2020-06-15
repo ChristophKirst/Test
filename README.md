@@ -25,5 +25,4 @@ Tests
 
 $x=1$
 
-
-![gif](Documentation/Static/CellMap_small_fast.gif)
+![gif](Submodule/Documentation/Static/CellMap_small_fast.gif)
