@@ -37,8 +37,6 @@ data from cleared tissues.
   
 * [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)
 
-  [![CellMap](https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_small_fast.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html)
-
 
 *ClearMap* has been designed to analyze O(TB) 3d datasets obtained 
 via light sheet microscopy from iDISCO+ cleared tissue samples 
