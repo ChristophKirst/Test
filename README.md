@@ -4,12 +4,8 @@ Tests
 
 
 [![](https://github.com/ChristophKirst/RepoTracker/workflows/RepoTracker/badge.svg)](https://github.com/ChristophKirst/RepoTracker/actions)
-
-
 [![Follow on Twitter](https://img.shields.io/twitter/follow/clearmap_idisco?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=clearmap_idisco)
-
 [![Downloads](https://img.shields.io/github/downloads/ChristophKirst/ClearMap/total?color=GREEN&style=plastic)](https://github.com/ChristophKirst/ClearMap2/issues)
-
 [![GitHub stars](https://img.shields.io/github/stars/ChristophKirst/ClearMap.svg?style=social&label=Star)](https://github.com/ChristophKirst/ClearMap)
 [![GitHub forks](https://img.shields.io/github/forks/ChristophKirst/ClearMap.svg?style=social&label=Fork)](https://github.com/ChristophKirst/ClearMap)
 
