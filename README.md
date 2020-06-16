@@ -19,9 +19,9 @@
 ![More](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
 
 <p align="center">
-<img src="https://christophkirst.github.io/Test/test.gif" height="160">
-<img src="https://christophkirst.github.io/Test/CellMap_small_fast.gif" height="160">
-<img src="https://christophkirst.github.io/Test/CellMap_small_fast.gif" height="160">
+<img src="https://christophkirst.github.io/Test/html/test.gif" height="160">
+<img src="https://christophkirst.github.io/Test/html/CellMap_small_fast.gif" height="160">
+<img src="https://christophkirst.github.io/Test/html/CellMap_small_fast.gif" height="160">
 </p>
 
 *ClearMap* is a toolbox for the analysis and registration of volumetric
