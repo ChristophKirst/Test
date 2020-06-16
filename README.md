@@ -12,6 +12,9 @@ Tests
 [![Generic badge](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](docs/contribute.md)
 
 
+[![Language](https://img.shields.io/github/languages/top/ChristophKirst/ClearMap?style=plastic)]((https://github.com/ChristophKirst/ClearMap2)
+
+
 [![License](https://img.shields.io/github/license/ChristophKirst/ClearMap?color=green&style=plastic)]()
 
 
