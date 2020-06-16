@@ -12,6 +12,17 @@
 [![Language](https://img.shields.io/github/languages/top/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap2)
 [![](https://github.com/ChristophKirst/RepoTracker/workflows/RepoTracker/badge.svg)](https://github.com/ChristophKirst/RepoTracker/actions)
 
+![TubeMap](https://christophkirst.github.io/Test/test.gif)
+
+![CellMap](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
+
+![More](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
+
+<p align="center">
+<img src="https://christophkirst.github.io/Test/test.gif" height="160">
+<img src="https://christophkirst.github.io/Test/CellMap_small_fast.gif" height="160">
+<img src="https://christophkirst.github.io/Test/CellMap_small_fast.gif" height="160">
+</p>
 
 *ClearMap* is a toolbox for the analysis and registration of volumetric
 data from cleared tissues.
@@ -25,8 +36,6 @@ data from cleared tissues.
   ![TubeMap](https://christophkirst.github.io/Test/test.gif)
   
 * [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)
-
-  [![CellMap](https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_small_fast.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html)
 
 
 *ClearMap* has been designed to analyze O(TB) 3d datasets obtained 
