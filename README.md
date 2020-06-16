@@ -9,7 +9,7 @@ Tests
 [![GitHub stars](https://img.shields.io/github/stars/ChristophKirst/ClearMap.svg?style=social&label=Star)](https://github.com/ChristophKirst/ClearMap)
 [![GitHub forks](https://img.shields.io/github/forks/ChristophKirst/ClearMap.svg?style=social&label=Fork)](https://github.com/ChristophKirst/ClearMap)
 
-[![Generic badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](docs/contribute.md)
+[![Generic badge](https://img.shields.io/badge/Contributions-Welcome-brightgreen-plastic.svg)](docs/contribute.md)
 
 
 [![License](https://img.shields.io/github/license/ChristophKirst/ClearMap?color=green&style=plastic)]()
