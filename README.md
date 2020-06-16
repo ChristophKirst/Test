@@ -12,6 +12,11 @@
 [![Language](https://img.shields.io/github/languages/top/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap2)
 [![](https://github.com/ChristophKirst/RepoTracker/workflows/RepoTracker/badge.svg)](https://github.com/ChristophKirst/RepoTracker/actions)
 
+![TubeMap](https://christophkirst.github.io/Test/test.gif)
+
+![CellMap](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
+
+![More](https://christophkirst.github.io/Test/TubeMap_raw_movew_smal.gif)
 
 *ClearMap* is a toolbox for the analysis and registration of volumetric
 data from cleared tissues.
