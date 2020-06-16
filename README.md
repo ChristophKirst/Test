@@ -22,7 +22,7 @@ data from cleared tissues.
 
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html),
 
-  ![TubeMap](https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_movie_small.gif)
+  ![TubeMap](https://christophkirst.github.io/Test/test.gif)
   
 * [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)
 
