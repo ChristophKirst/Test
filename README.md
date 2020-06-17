@@ -28,11 +28,11 @@ data from cleared tissues.
 
 * [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)
   
-  [![WobblyStitcher](https://christophkirst.github.io/ClearMap2Documentation/images/wobblystitcher.jpg =300x160)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
+  [![WobblyStitcher](https://christophkirst.github.io/ClearMap2Documentation/images/wobblystitcher.jpg)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
   
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html),
 
-  [![TubeMap](https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html)
+  [![TubeMap](https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html)
 
 * [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)
 
