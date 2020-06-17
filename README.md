@@ -26,16 +26,20 @@ data from cleared tissues.
 
 *ClearMap's* tool box includes 
 
-## [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" height="160" align="right" vspace = "50"/></a>
+## [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" height="100" align="right" vspace = "50"/></a>
 
 Stitch TB data sets non-rigidly.
   
-## [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif" alt="WobblyStitcher" height="160" align="right" vspace = "50"/></a>
+## [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif" alt="WobblyStitcher" height="100" align="right" vspace = "50"/></a>
 
 Extract vasculature and other tubular networks from TB data.
 
-## [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif" alt="WobblyStitcher" height="160" align="right" vspace = "50"/></a>
+## [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif" alt="WobblyStitcher" height="100" align="right" vspace = "50"/></a>
 
+Extract neuronal activity marker and cell shapes.
+
+
+## Background
 
 *ClearMap* has been designed to analyze O(TB) 3d datasets obtained 
 via light sheet microscopy from iDISCO+ cleared tissue samples 
