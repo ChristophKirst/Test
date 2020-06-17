@@ -26,15 +26,15 @@ data from cleared tissues.
 
 *ClearMap's* tool box includes 
 
-## [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" width="170" align="right" vspace = "10"/></a>
+## [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" width="150" align="right" vspace = "5"/></a>
 
 Stitch TB data sets non-rigidly.
   
-## [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif" alt="WobblyStitcher" width="170" align="right" vspace = "10"/></a>
+## [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif" alt="WobblyStitcher" width="150" align="right" vspace = "5"/></a>
 
 Extract vasculature and other tubular networks from TB data.
 
-## [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif" alt="WobblyStitcher" width="170" align="right" vspace = "10"/></a>
+## [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html) <a href="https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif" alt="WobblyStitcher" width="150" align="right" vspace = "5"/></a>
 
 Extract neuronal activity marker and cell shapes.
 
@@ -53,10 +53,10 @@ as well as vasculature networks of whole mouse brains
 <p align="center">
 <a href="https://doi.org/10.1016/j.cell.2016.05.007">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2016.jpg" 
- alt="Cell2016" width="300" vspace="30"/></a>
+ alt="Cell2016" width="300" hspace="40"/></a>
 <a href="https://doi.org/10.1016/j.cell.2020.01.028">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2020.jpg" 
- alt="Cell2020" width="300" vspace="30"/></a>
+ alt="Cell2020" width="300" hspace="40"/></a>
 </p>
 
 *ClearMap* tools may also be useful for data obtained with other types of 
@@ -92,17 +92,17 @@ ClearMap has been featured in differnet articles, interviews and a TEDx talk:
 
 <p align="center">
 <a href="https://www.ted.com/talks/christoph_kirst_a_transparent_journey_into_the_brain_and_its_flexible_function">
-<img src="https://christophkirst.github.io/ClearMap2Documentation/images/TEDx_video.jpeg" alt="Cell2016" height="240" hspace="30"/></a>
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/TEDx_video.jpeg" alt="Cell2016" height="240" hspace="40"/></a>
 <a href="https://www.youtube.com/watch?v=-LEfL55-EUU">
-<img src="https://img.youtube.com/vi/-LEfL55-EUU/0.jpg" alt="Cell2020" height="240" hspace="30"/></a>
+<img src="https://img.youtube.com/vi/-LEfL55-EUU/0.jpg" alt="Cell2020" height="240" hspace="40"/></a>
 </p>
 
 <p align="center">
 <a href="https://www.nature.com/articles/s41684-020-0556-7">
 <img src="https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg" 
-  alt="Cell2016" height="80" hspace="30/></a>
+  alt="Cell2016" height="80" hspace="40/></a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0092867416307371">
-<img src="https://publons.com/media/thumbs/publishers/logos/613fa6f5-fea2-4e4a-a934-ba44a1e85f21.png.200x200_q95_detail_letterbox_upscale.png" alt="Cell2020" height="80" hspace="30"/></a>
+<img src="https://publons.com/media/thumbs/publishers/logos/613fa6f5-fea2-4e4a-a934-ba44a1e85f21.png.200x200_q95_detail_letterbox_upscale.png" alt="Cell2020" height="80" hspace="40"/></a>
 </p>
 
 See also our [media gallery](https://christophkirst.github.io/ClearMap2Documentation/html/media.html).
