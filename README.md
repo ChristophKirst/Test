@@ -28,7 +28,9 @@ data from cleared tissues.
 
 * [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)
   
-  [<img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" height="160" />](https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg | width=300)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
+  <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching">
+  <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" 
+   alt="WobblyStitcher" height="160"/></a>
   
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html),
 
@@ -87,10 +89,10 @@ For experimental protocols also refer to [idisco.info](http:://idisco.info)
 
 ClearMap has been featured in differnet articles, interviews and a TEDx talk:
 
-[![TEDX](https://christophkirst.github.io/ClearMap2Documentation/images/TEDx_video.jpg =300x)](https://www.ted.com/talks/christoph_kirst_a_transparent_journey_into_the_brain_and_its_flexible_function)
+[![TEDX](https://christophkirst.github.io/ClearMap2Documentation/images/TEDx_video.jpg)](https://www.ted.com/talks/christoph_kirst_a_transparent_journey_into_the_brain_and_its_flexible_function)
 
 
-[![Interview](https://img.youtube.com/vi/-LEfL55-EUU/0.jpg =300x)](https://www.youtube.com/watch?v=-LEfL55-EUU)
+[![Interview](https://img.youtube.com/vi/-LEfL55-EUU/0.jpg)](https://www.youtube.com/watch?v=-LEfL55-EUU)
 
 [![News](https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg)](https://www.nature.com/articles/s41684-020-0556-7)
 
