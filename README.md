@@ -1,4 +1,5 @@
-# ClearMap2
+ClearMap
+========
 
 [![DOI](https://zenodo.org/badge/59701678.svg)](https://zenodo.org/badge/latestdoi/59701678)
 [![GitHub stars](https://img.shields.io/github/stars/ChristophKirst/ClearMap2.svg?style=social&label=Star)](https://github.com/ChristophKirst/ClearMap2) 
@@ -12,40 +13,40 @@
 [![Language](https://img.shields.io/github/languages/top/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap2)
 [![](https://github.com/ChristophKirst/RepoTracker/workflows/RepoTracker/badge.svg)](https://github.com/ChristophKirst/RepoTracker/actions)
 
-![TubeMap](https://christophkirst.github.io/Test/test.gif)
-
-![CellMap](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
-
-![More](https://christophkirst.github.io/Test/CellMap_small_fast.gif)
-
-![More](https://christophkirst.github.io/Test/html/test.gif)
 
 <p align="center">
-<img src="https://christophkirst.github.io/Test/html/test.gif" height="160">
-<img src="https://christophkirst.github.io/Test/html/CellMap_small_fast.gif" height="160">
-<img src="https://christophkirst.github.io/Test/html/CellMap_small_fast.gif" height="160">
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_moview.gif" height="160">
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_movie.gif" height="160">
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_raw_moive.gif" height="160">
 </p>
+
 
 *ClearMap* is a toolbox for the analysis and registration of volumetric
 data from cleared tissues.
 
 *ClearMap's* tool box includes 
 
-* [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html), 
-
+* [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)
+  
+  [![WobblyStitcher](https://christophkirst.github.io/ClearMap2Documentation/images/wobblystitcher.jpg =300x160)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
+  
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html),
 
-  ![TubeMap](https://christophkirst.github.io/Test/test.gif)
-  
+  [![TubeMap](https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html)
+
 * [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)
+
+  [![CellMap](https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html)
 
 
 *ClearMap* has been designed to analyze O(TB) 3d datasets obtained 
 via light sheet microscopy from iDISCO+ cleared tissue samples 
 immunolabeled for proteins. 
- 
-*ClearMap* has been written for mapping immediate early genes [Renier2016]_
-as well as vasculature networks of whole mouse brains [Kirst2020]_
+
+*ClearMap* has been written for mapping immediate early genes 
+Renier et al. Cell 2016](https://doi.org/10.1016/j.cell.2016.05.007)
+as well as vasculature networks of whole mouse brains 
+[Kirst et al. Cell 2020](https://doi.org/10.1016/j.cell.2020.01.028)
 
 .. image:: Static/cell_abstract_2020.jpg
    :target: https://doi.org/10.1016/j.cell.2016.05.007 
@@ -66,78 +67,92 @@ to broaden the range of applications to different types of biological objects
 or structures.
 
 
+[Installation](https://christophkirst.github.io/ClearMap2Documentation/html/installation.html)
+==============================================================================================
+
+Please refer to our [documentation](https://christophkirst.github.io/ClearMap2Documentation)
+on how to [install](https://christophkirst.github.io/ClearMap2Documentation/html/installation.html) ClearMap.
 
 
-Installation
-------------
+[Documentation](ttps://christophkirst.github.io/ClearMap2Documentation)
+=======================================================================
 
-Install ClearMap by cloning it form `github <http://www.github.com/>`_::
+ClearMap comes with a full [documentation](https://christophkirst.github.io/ClearMap2Documentation).
 
-    $ git clone https://github.com/ChristophKirst/ClearMap.git
-
-See `GIT.md <https://github.com/ChristophKirst/ClearMap/blob/master/GIT.md>`_ for basic help with git.
-
-If you want to register data to reference images via elastix or
-classify pixels via ilastik configure the /ClearMap/Settings.py file.
-
-You will most likely also need to install several python packages e.g. via 
-pip or apt-get.
-
-See the `documentation <https://rawgit.com/ChristophKirst/ClearMap/master/docs/_build/html/index.html>`_ for more details.
-
-Additional files for mouse brain registration can be found on the `iDISCO website <https://idisco.info/>`_.
+For experimental protocols also refer to [idisco.info](http:://idisco.info)
 
 
-Quickstart
-----------
+[News and Media](https://christophkirst.github.io/ClearMap2Documentation/html/media.html)
+=========================================================================================
 
-   * see the template scripts in the `./ClearMap/Scripts <https://github.com/ChristophKirst/ClearMap/tree/master/ClearMap/Scripts>`_ folder 
-   * see the `ClearMap documentation <https://rawgit.com/ChristophKirst/ClearMap/master/docs/_build/html/index.html>`_ 
+ClearMap has been featured in differnet articles, interviews and a TEDx talk:
+
+[![TEDX](https://christophkirst.github.io/ClearMap2Documentation/images/TEDx_video.jpg =300x)](https://www.ted.com/talks/christoph_kirst_a_transparent_journey_into_the_brain_and_its_flexible_function)
 
 
-Copyright
----------
-__author__    = 'Christoph Kirst <christoph.kirst.ck@gmail.com>'
-__license__   = 'GPLv3 - GNU General Pulic License v3 (see LICENSE.txt)'
-__copyright__ = 'Copyright © 2020 by Christoph Kirst'
-__webpage__   = 'http://idisco.info'
-__download__  = 'http://www.github.com/ChristophKirst/ClearMap2'
+[![Interview](https://img.youtube.com/vi/-LEfL55-EUU/0.jpg =300x)](https://www.youtube.com/watch?v=-LEfL55-EUU)
+
+[![News](https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg)](https://www.nature.com/articles/s41684-020-0556-7)
+
+[ClearMap](https://www.sciencedirect.com/science/article/pii/S0092867416307371)
+
+See also our [media and gallery](https://christophkirst.github.io/ClearMap2Documentation/html/media.html).
+
+
+References
+==========
+
+See who cites us: 
+
+  * [ClearMap 1.0](https://scholar.google.com/scholar?cites=14871582180549937567&as_sdt=2005&sciodt=0,5&hl=en)
+  
+  * [ClearMap 2.0](https://scholar.google.com/scholar?cites=15218093461598622032&as_sdt=2005&sciodt=0,5&hl=en)
+  
+and cite us if you use the sofware in any form:
+
+  @article{kirst2020mapping,
+    title={Mapping the fine-scale organization and plasticity of the brain vasculature},
+    author={Kirst, Christoph and Skriabine, Sophie and Vieites-Prado, Alba and Topilko, Thomas and Bertin, Paul and Gerschenfeld, Gaspard and Verny, Florine and Topilko, Piotr and Michalski, Nicolas and Tessier-Lavigne, Marc and others},
+    journal={Cell},
+    volume={180},
+    number={4},
+    pages={780--795},
+    year={2020},
+    publisher={Elsevier}
+  }
+  
+  @article{renier2016mapping,
+    title={Mapping of brain activity by automated volume analysis of immediate early genes},
+    author={Renier, Nicolas and Adams, Eliza L and Kirst, Christoph and Wu, Zhuhao and Azevedo, Ricardo and Kohl, Johannes and Autry, Anita E and Kadiri, Lolahon and Venkataraju, Kannan Umadevi and Zhou, Yu and others},
+    journal={Cell},
+    volume={165},
+    number={7},
+    pages={1789--1802},
+    year={2016},
+    publisher={Elsevier}
+  }
+
 
 License
--------
-    GPLv3, see LICENSE.txt for details.
+=======
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE). 
+
+For other licensing options contact the author
+Christoph Kirst christoph.kirst.ck@gmail.com.
 
 
+Versions
+========
 
+VERSION 2.0
+-----------
+Rewrite of ClearMap 1.0 to handle larger data sets (TB).
+This version implements [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html)
 
+VERSION 1.0
+-----------
+First version of ClearMap. Implements [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html) 
+See https://github.com/ChristophKirst/ClearMap
 
-
-# Test
-Tests
-
-
-
-[![](https://github.com/ChristophKirst/RepoTracker/workflows/RepoTracker/badge.svg)](https://github.com/ChristophKirst/RepoTracker/actions)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/clearmap_idisco?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=clearmap_idisco)
-[![Downloads](https://img.shields.io/github/downloads/ChristophKirst/ClearMap/total?color=GREEN&style=plastic)](https://github.com/ChristophKirst/ClearMap2/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ChristophKirst/ClearMap.svg?style=social&label=Star)](https://github.com/ChristophKirst/ClearMap)
-[![GitHub forks](https://img.shields.io/github/forks/ChristophKirst/ClearMap.svg?style=social&label=Fork)](https://github.com/ChristophKirst/ClearMap)
-
-[![Generic badge](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](docs/contribute.md)
-
-
-[![Language](https://img.shields.io/github/languages/top/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap2)
-
-
-[![License](https://img.shields.io/github/license/ChristophKirst/ClearMap?color=green&style=plastic)]()
-
-
-[![Size](https://img.shields.io/github/repo-size/ChristophKirst/ClearMap?style=plastic)](https://github.com/ChristophKirst/ClearMap)
-
-
-
-$x=1$
-
-![gif](Submodule/Static/CellMap_small_fast.gif)
-
-![gif](https://github.com/ChristophKirst/TestSubModule/blob/master/Static/CellMap_small_fast.gif)
+Copyright © 2020 by Christoph Kirst
