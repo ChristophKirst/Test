@@ -52,9 +52,10 @@ as well as vasculature networks of whole mouse brains
 <p align="center">
 <a href="https://doi.org/10.1016/j.cell.2016.05.007 ">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2016.jpg" 
- alt="Cell2016" width="300"/></a>
+ style="border:0px;margin:0px;float:left;width:300px;" alt="Cell2016"/></a>
 <a href="https://doi.org/10.1016/j.cell.2020.01.028 ">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2020.jpg" 
+  style="border:0px;margin:0px;clear:both;width:300px;" 
  alt="Cell2020" width="300"/></a>
 </p>
 
@@ -76,8 +77,8 @@ Please refer to our [documentation](https://christophkirst.github.io/ClearMap2Do
 on how to [install](https://christophkirst.github.io/ClearMap2Documentation/html/installation.html) ClearMap.
 
 
-[Documentation](ttps://christophkirst.github.io/ClearMap2Documentation)
-=======================================================================
+[Documentation](https://christophkirst.github.io/ClearMap2Documentation)
+========================================================================
 
 ClearMap comes with a full [documentation](https://christophkirst.github.io/ClearMap2Documentation).
 
