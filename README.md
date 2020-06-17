@@ -45,17 +45,18 @@ via light sheet microscopy from iDISCO+ cleared tissue samples
 immunolabeled for proteins. 
 
 *ClearMap* has been written for mapping immediate early genes 
-Renier et al. Cell 2016](https://doi.org/10.1016/j.cell.2016.05.007)
+[Renier et al. Cell 2016](https://doi.org/10.1016/j.cell.2016.05.007)
 as well as vasculature networks of whole mouse brains 
 [Kirst et al. Cell 2020](https://doi.org/10.1016/j.cell.2020.01.028)
 
-.. image:: Static/cell_abstract_2020.jpg
-   :target: https://doi.org/10.1016/j.cell.2016.05.007 
-   :width: 300  
-.. image:: Static/cell_abstract_2016.jpg
-   :target: https://doi.org/10.1016/j.cell.2020.01.028
-   :width: 300
-  
+<p align="center">
+<a href="https://doi.org/10.1016/j.cell.2016.05.007 ">
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2016.jpg" 
+ alt="Cell2016" width="300"/></a>
+<a href="https://doi.org/10.1016/j.cell.2020.01.028 ">
+<img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2020.jpg" 
+ alt="Cell2020" width="300"/></a>
+</p>
 
 *ClearMap* tools may also be useful for data obtained with other types of 
 microscopes, types of markers, clearing techniques, as well as other species,
