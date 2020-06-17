@@ -26,11 +26,7 @@ data from cleared tissues.
 
 *ClearMap's* tool box includes 
 
-* [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)
-  
-  <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching">
-  <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" 
-   alt="WobblyStitcher" height="160"/></a>
+## [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)  <a href=" <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching"> <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" height="160" align="right" vspace = "50"/></a>
   
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html)
 
