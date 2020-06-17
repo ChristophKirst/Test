@@ -50,10 +50,10 @@ as well as vasculature networks of whole mouse brains
 [Kirst et al. Cell 2020](https://doi.org/10.1016/j.cell.2020.01.028)
 
 <p align="center">
-<a href="https://doi.org/10.1016/j.cell.2016.05.007 ">
+<a href="https://doi.org/10.1016/j.cell.2016.05.007">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2016.jpg" 
  style="border:0px;margin:0px;float:left;width:300px;" alt="Cell2016"/></a>
-<a href="https://doi.org/10.1016/j.cell.2020.01.028 ">
+<a href="https://doi.org/10.1016/j.cell.2020.01.028">
 <img src="https://christophkirst.github.io/ClearMap2Documentation/images/Cell_abstract_2020.jpg" 
   style="border:0px;margin:0px;clear:both;width:300px;" 
  alt="Cell2020" width="300"/></a>
@@ -113,25 +113,27 @@ See who cites us:
   
 and cite us if you use the sofware in any form:
 
-  @article{kirst2020mapping,
-    title={Mapping the fine-scale organization and plasticity of the brain vasculature},
-    author={Kirst, Christoph and Skriabine, Sophie and Vieites-Prado, Alba and Topilko, Thomas and Bertin, Paul and Gerschenfeld, Gaspard and Verny, Florine and Topilko, Piotr and Michalski, Nicolas and Tessier-Lavigne, Marc and others},
-    journal={Cell},
-    volume={180},
-    number={4},
-    pages={780--795},
-    year={2020},
-    publisher={Elsevier}}
-  
-  @article{renier2016mapping,
-    title={Mapping of brain activity by automated volume analysis of immediate early genes},
-    author={Renier, Nicolas and Adams, Eliza L and Kirst, Christoph and Wu, Zhuhao and Azevedo, Ricardo and Kohl, Johannes and Autry, Anita E and Kadiri, Lolahon and Venkataraju, Kannan Umadevi and Zhou, Yu and others},
-    journal={Cell},
-    volume={165},
-    number={7},
-    pages={1789--1802},
-    year={2016},
-    publisher={Elsevier}}
+    @article{kirst2020mapping,
+       title={Mapping the fine-scale organization and plasticity of the brain vasculature},
+       author={Kirst, Christoph and Skriabine, Sophie and Vieites-Prado, Alba and Topilko, Thomas and Bertin, Paul and Gerschenfeld, Gaspard and Verny, Florine and Topilko, Piotr and Michalski, Nicolas and Tessier-Lavigne, Marc and others},
+       journal={Cell},
+       volume={180},
+       number={4},
+       pages={780--795},
+       year={2020},
+       publisher={Elsevier},
+       url={https://doi.org/10.1016/j.cell.2016.05.007}}
+    
+    @article{renier2016mapping,
+       title={Mapping of brain activity by automated volume analysis of immediate early genes},
+       author={Renier, Nicolas and Adams, Eliza L and Kirst, Christoph and Wu, Zhuhao and Azevedo, Ricardo and Kohl, Johannes and Autry, Anita E and Kadiri, Lolahon and Venkataraju, Kannan Umadevi and Zhou, Yu and others},
+       journal={Cell},
+       volume={165},
+       number={7},
+       pages={1789--1802},
+       year={2016},
+       publisher={Elsevier},
+       url={https://doi.org/10.1016/j.cell.2020.01.028}}
 
 
 License
@@ -139,8 +141,7 @@ License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). 
 
-For other licensing options contact the author
-Christoph Kirst christoph.kirst.ck@gmail.com.
+For other licensing options contact the author Christoph Kirst (christoph.kirst.ck@gmail.com).
 
 
 Versions
