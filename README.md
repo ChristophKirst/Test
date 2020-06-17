@@ -121,8 +121,7 @@ and cite us if you use the sofware in any form:
     number={4},
     pages={780--795},
     year={2020},
-    publisher={Elsevier}
-  }
+    publisher={Elsevier}}
   
   @article{renier2016mapping,
     title={Mapping of brain activity by automated volume analysis of immediate early genes},
@@ -132,8 +131,7 @@ and cite us if you use the sofware in any form:
     number={7},
     pages={1789--1802},
     year={2016},
-    publisher={Elsevier}
-  }
+    publisher={Elsevier}}
 
 
 License
