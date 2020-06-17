@@ -28,7 +28,7 @@ data from cleared tissues.
 
 * [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)
   
-  [![WobblyStitcher](https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg | width=300)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
+  [<img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg" alt="WobblyStitcher" height="160" />](https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg | width=300)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching)
   
 * [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html),
 
