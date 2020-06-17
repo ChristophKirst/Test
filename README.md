@@ -40,12 +40,6 @@ data from cleared tissues.
 
   [![CellMap](https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html)
 
-
-| [Wobbly-Stitcher](https://christophkirst.github.io/ClearMap2Documentation/html/wobblystitcher.html)      <a href="https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html#Stitching">   <img src="https://christophkirst.github.io/ClearMap2Documentation/images/WobblyStitcher.jpg"     alt="WobblyStitcher" height="160"/></a> | [TubeMap](https://christophkirst.github.io/ClearMap2Documentation/html/tubemap.html)    [![TubeMap](https://christophkirst.github.io/ClearMap2Documentation/images/TubeMap_graph_raw_movie.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/TubeMap.html) |   |   |   |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
-| [CellMap](https://christophkirst.github.io/ClearMap2Documentation/html/cellmap.html)    [![CellMap](https://christophkirst.github.io/ClearMap2Documentation/images/CellMap_raw_bw.gif)](https://christophkirst.github.io/ClearMap2Documentation/html/CellMap.html)                                                                                 |                                                                                                                                                                                                                                                                             |   |   |   |
-
-
 *ClearMap* has been designed to analyze O(TB) 3d datasets obtained 
 via light sheet microscopy from iDISCO+ cleared tissue samples 
 immunolabeled for proteins. 
