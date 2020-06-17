@@ -107,6 +107,8 @@ ClearMap has been featured in differnet articles, interviews and a TEDx talk:
 
 See also our [media gallery](https://christophkirst.github.io/ClearMap2Documentation/html/media.html).
 
+<a class="twitter-timeline" data-width="600" data-height="800" data-theme="light" href="https://twitter.com/clearmap_idisco?ref_src=twsrc%5Etfw">Tweets by clearmap_idisco</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 References
 ==========
