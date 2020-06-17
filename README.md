@@ -99,9 +99,9 @@ ClearMap has been featured in differnet articles, interviews and a TEDx talk:
 <p align="center">
 <a href="https://www.nature.com/articles/s41684-020-0556-7">
 <img src="https://media.springernature.com/full/nature-cms/uploads/product/nature/header-86f1267ea01eccd46b530284be10585e.svg" 
-  alt="Cell2016" height="120"/></a>
+  alt="Cell2016" height="80"/></a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0092867416307371">
-<img src="https://publons.com/media/thumbs/publishers/logos/613fa6f5-fea2-4e4a-a934-ba44a1e85f21.png.200x200_q95_detail_letterbox_upscale.png" alt="Cell2020" height="120"/></a>
+<img src="https://publons.com/media/thumbs/publishers/logos/613fa6f5-fea2-4e4a-a934-ba44a1e85f21.png.200x200_q95_detail_letterbox_upscale.png" alt="Cell2020" height="80"/></a>
 </p>
 
 See also our [media gallery](https://christophkirst.github.io/ClearMap2Documentation/html/media.html).
